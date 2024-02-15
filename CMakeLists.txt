@@ -11,3 +11,8 @@ add_executable(helloworld
 )
 
 target_link_libraries(helloworld mult5)
+
+enable_testing()
+add_executable(test_mult5 test_mult5.cpp)
+target_link_libraries(test_mult5 mult5)
+add_test(TestMult5 test_mult5)
