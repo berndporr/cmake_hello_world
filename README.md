@@ -9,9 +9,9 @@ float mult5(float a);
 ```
 which multiplies anything with 5!
 
-Then a unit test tests this function if it really can do it.
+Then a unit test tests this function if it really can do it,
 
-And finally there a program using this amazing function!
+and finally there is a program using this amazing function called `helloworld`.
 
 ## How to use
 
