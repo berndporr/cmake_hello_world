@@ -1,7 +1,7 @@
 # cmake Hello World
 
 Minimal cmake example to show how to create a library,
-an executable and a test.
+an executable and a unit test.
 
 It provides a library with one function:
 ```
